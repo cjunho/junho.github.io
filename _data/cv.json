@@ -66,18 +66,16 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
+      "name": "A data free neural operator enabling fast inference of 2D and 3D Navier Stokes equations",
+      "publisher": "arXiv preprint",
+      "releaseDate": "2025",
+      "website": "https://arxiv.org/abs/2510.23936",
+      "summary":"J. Choi, T.Y. Chang, N. Kim, J. Hong, T. Yoon"},
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Variational numerical-modelling strategies for the simulation of driven free-surface waves",
+      "publisher": "EarthArXiv eprints",
+      "releaseDate": "2025",
+      "website": "https://eartharxiv.org/repository/view/3411/"
     },
     {
       "name": "Paper Title Number 3",
