@@ -272,16 +272,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+      comments: true  
   # _talks
   - scope:
       path: ""
