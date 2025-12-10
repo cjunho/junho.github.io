@@ -1,5 +1,5 @@
 ---
-title: "Spectral Operator Learning for Parametric PDEs without Data Reliance"
+title: "A data free neural operator enabling fast inference of 2D and 3D Navier Stokes equations"
 collection: publications
 category: manuscripts
 # permalink: /publication/2015-10-01-paper-title-number-3
