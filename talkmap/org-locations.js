@@ -1,22 +1,12 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
-  ],
-  [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
     "On interior layer for the Burgers equations on R<br />2018 Canadian Mathematical Society winter meeting; Vancouver, Canada",
     49.2608724,
     -123.113952
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "On boundary layer for the Burgers equations in a bounded domain<br />SIAM Conference  on Applications of Dynamical Systems; Snowbird, Utah, USA",
+    40.5807546,
+    -111.6572955
   ]
 ];
