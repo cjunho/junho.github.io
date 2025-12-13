@@ -8,4 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-My [CV] is linked at (https://cjunho.github.io/junho/files/CV_choi2025.pdf) and at[research statement](https://cjunho.github.io/junho/files/research_statement.pdf)
+[CV](https://cjunho.github.io/junho/files/CV_choi2025.pdf)
+
+[Research Statement](https://cjunho.github.io/junho/files/research_statement.pdf)
