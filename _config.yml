@@ -27,7 +27,7 @@ author:
   #name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  # location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
