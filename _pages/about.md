@@ -9,6 +9,13 @@ redirect_from:
 
 I am a postdoctoral researcher at mathematical science department, Korea Advanced Institute of Science and Technology.
 
+Eureka moment. That is one of the fundamental motivations for studying mathematics. Specifically, I believe that we can encounter eureka moments by identifying unknown solutions of partial differential equations (PDEs) from known data. Accordingly, my research topics are: 1) machine learning methodology for fast and general-purpose PDE solvers; and 2) the mathematical modeling and simulation of ocean wave dynamics.
+
+My first research topic is dedicated to developing unsupervised operator learning networks for generating the rapid and accurate solution of parametric PDEs, including the 3D Navier-Stokes equations (see Sec.\ref{network}). Once trained by the structure of a target PDE, rather than by reference solutions to the PDE, the operator learning networks are capable of assigning the corresponding solutions to given PDE data in nearly real-time. Accordingly, this capability is useful for generating massive datasets to train physical artificial intelligences within a digital twin environment. Furthermore, this framework allows for real-time ensemble computing across various scenarios, enabling efficient, probabilistic forecasting in weather and climate modeling. 
+
+The second topic involves the mathematical modeling and simulation of ocean wave dynamics, specifically focusing on highly non-linear phenomena like rogue waves (see Sec.\ref{rogue}). Building upon the Euler equations, I have introduced approximate PDE hierarchy and performed simulations using the approximate PDEs to realize rogue wave dynamics. This computational work is expected to serves as a key clue for justifying the relations among ocean wave models, and constructing robust, real-time forecasting and warning systems.
+
+
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
