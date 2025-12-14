@@ -9,7 +9,7 @@ redirect_from:
 
 I am a postdoctoral researcher at mathematical science department, Korea Advanced Institute of Science and Technology (KAIST).
 
-Eureka moment. That is one of the fundamental motivations for studying mathematics. Specifically, I believe that we can encounter eureka moments by identifying unknown solutions of partial differential equations (PDEs) from known data. Accordingly, my research topics are: 1) machine learning methodology for fast and general-purpose PDE solvers; and 2) the mathematical modeling and simulation of ocean wave dynamics. For more details, refer to my [CV](https://cjunho.github.io/junho/files/CV_choi2025.pdf) and [research statement](https://cjunho.github.io/junho/files/research_statement.pdf) 
+Eureka moment. That has been my core motivation for studying mathematics until now: I have occasionally encountered eureka moments while researching to identify unknown solutions of partial differential equations (PDEs) from known data. Accordingly, my research topics are: 1) machine learning methodology for fast and general-purpose PDE solvers; and 2) the mathematical modeling and simulation of ocean wave dynamics. For more details, refer to my [CV](https://cjunho.github.io/junho/files/CV_choi2025.pdf) and [research statement](https://cjunho.github.io/junho/files/research_statement.pdf) 
 
 Machine learning methodology for fast and general-purpose PDE solvers
 ======
